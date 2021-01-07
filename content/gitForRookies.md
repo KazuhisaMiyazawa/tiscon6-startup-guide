@@ -76,18 +76,18 @@ IntelliJで  `Git` > `Pull` をクリック。
 
 ### ローカルリポジトリの内容をアップロード(Push)する
 
-[Push](https://backlog.com/ja/git-tutorial/intro/09/) は、自分のPCの[Commit](https://backlog.com/ja/git-tutorial/intro/03)内容を他のチームメンバーに共有したい時に使います。コミットされていない内容はアップロードできないので、まだ[Commit](https://backlog.com/ja/git-tutorial/intro/03/)していない人はまず[Commit](https://backlog.com/ja/git-tutorial/intro/03/)しましょう。
+[Push](https://backlog.com/ja/git-tutorial/intro/09/) は、自分のPCの[Commit](https://backlog.com/ja/git-tutorial/intro/03/)内容を他のチームメンバーに共有したい時に使います。コミットされていない内容はアップロードできないので、まだ[Commit](https://backlog.com/ja/git-tutorial/intro/03/)していない人はまず[Commit](https://backlog.com/ja/git-tutorial/intro/03/)しましょう。
 
-`Git` > `Push` をクリックして[Push](https://www.atlassian.com/ja/git/tutorial/remote-repositories#!push)画面を開きます。
+`Git` > `Push` をクリックして[Push](https://www.atlassian.com/ja/git/tutorials/syncing/git-push)画面を開きます。
 
 ![Push画面を開く](../image/intellij_git_push.png)
 
-自分が[Commit](https://backlog.com/ja/git-tutorial/intro/03)した内容が表示されるので、思ったとおりの内容なら `Push` をクリック。
+自分が[Commit](https://backlog.com/ja/git-tutorial/intro/03/)した内容が表示されるので、思ったとおりの内容なら `Push` をクリック。
 
 ![Push画面](../image/intellij_git_push-commits.png)
 
 これで [Push](https://backlog.com/ja/git-tutorial/intro/09/) は完了です。
 
-ちなみに、[Commit](https://backlog.com/ja/git-tutorial/intro/03)内容を即[Push](https://backlog.com/ja/git-tutorial/intro/09/)してしまいたければ、[Commit](https://www.atlassian.com/ja/git/tutorial/git-basics#!commit)時に `Commit and Push` を選択すればできます。
+ちなみに、[Commit](https://backlog.com/ja/git-tutorial/intro/03/)内容を即[Push](https://backlog.com/ja/git-tutorial/intro/09/)してしまいたければ、[Commit](https://www.atlassian.com/ja/git/tutorials/saving-changes/git-commit)時に `Commit and Push` を選択すればできます。
 
 ![Commit and Push](../image/intellij_git_commit-and-push.png)
