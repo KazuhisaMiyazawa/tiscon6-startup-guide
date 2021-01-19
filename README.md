@@ -88,6 +88,8 @@ Miroの基本的な操作については、下記サイトを見てみてくだ�
     - [リポジトリ更新手引き](content/gitUpdateGuide.md)
 - IntelliJ IDEA
     - [IntelliJ IDEAのTIPS](content/tipsIntelliJ.md)
+- Zoom
+    - [ZoomのTIPS](content/tipsZoom.md)
 - その他
     - [Windowsマシンの開発TIPS](content/tipsForWin.md)
     - [Macマシンの開発TIPS](content/tipsForMac.md)
